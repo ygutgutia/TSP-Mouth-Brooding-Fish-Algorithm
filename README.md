@@ -19,8 +19,9 @@ For the given MBF algorithm, if we perform m iterations, over n population, calc
 
 ## Input Format
 The algorithm inputs the number of vertices(n) from the user during runtime. **By default, the code is set to generate a complete weighted graph of n vertices**, and perform henceforth operations on it. However, if the user wants to input its own graph, another code has been commented at the bottom of the code, which can be used instead. The format of input in this case must be several lines each containing 3 values, the source vertex, the destination vertex, and the distance between them (weight of the edge). The file must be saved as input.txt in the same directory as that of the program.
-- Ex.	1 2 5
-        1 3 4
+- Ex.	
+        1 2 5 
+        1 3 4 
         2 3 7			---Indicates a complete graph with 3 vertices
 
 
