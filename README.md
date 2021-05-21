@@ -32,22 +32,22 @@ The program outputs the final value of the global best solution, and its total p
 ## The runtime for various values of the parameters is compared below
 
 
--   Population: 10
-    Number of iterations (Generations): 100
-    No. of vertices: 10
+-   Population: 10\
+    Number of iterations (Generations): 100\
+    No. of vertices: 10\
     serial: 0.9783 seconds
 
--   Population: 10
-    Number of iterations (Generations): 1000
-    No. of vertices: 50
+-   Population: 10\
+    Number of iterations (Generations): 1000\
+    No. of vertices: 50\
     serial: 3.3097 seconds
 
--   Population: 20
-    Number of iterations (Generations): 1000
-    No. of vertices: 100
+-   Population: 20\
+    Number of iterations (Generations): 1000\
+    No. of vertices: 100\
     serial: 10.95 seconds
 
--   Population: 20
-    Number of iterations (Generations): 10000
-    No. of vertices: 100
+-   Population: 20\
+    Number of iterations (Generations): 10000\
+    No. of vertices: 100\
     serial: 12.404 seconds
